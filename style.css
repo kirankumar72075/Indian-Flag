@@ -1,0 +1,35 @@
+body{
+    background-color: #83C0C1;
+}
+.orange{
+    background-color: #FF671F;
+    height: 200px;
+    width: 900px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.white{
+    background-color: #ffffff;
+    height: 200px;
+    width: 900px;
+}
+.white > img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 350px
+}
+.green{
+    background-color: #046A38;
+    height: 200px;
+    width: 900px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.position{
+    position: relative;
+    top: 50px;
+    left: 300px;
+}
+
